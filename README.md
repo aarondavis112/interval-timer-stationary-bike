@@ -119,3 +119,7 @@ Your app will be in the `dist` folder!
 - Works great with a bike trainer - just glance up at the menu bar!
 
 Enjoy your workout! 💪🚴
+
+## Confession
+
+This was vibe coded lol
