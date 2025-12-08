@@ -1,4 +1,4 @@
-# 🚴 Bike Workout Interval Timer
+# 🚴 Stationary Bike Workout Interval Timer
 
 A simple macOS menu bar app for interval training on your bike. The default is set for Tabata workouts.
 
